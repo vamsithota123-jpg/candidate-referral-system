@@ -4,28 +4,6 @@ project live
 
 https://musical-paletas-d64c53.netlify.app/
 
-candidate-referral-system/
-│
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── uploads/
-│   ├── server.js
-│   └── package.json
-│
-└── frontend/
-    ├── public/
-    ├── src/
-    │   ├── components/
-    │   ├── services/
-    │   ├── App.jsx
-    │   ├── main.jsx
-    │   └── index.css
-    ├── index.html
-    └── package.json
 
 
 Setup Instructions
